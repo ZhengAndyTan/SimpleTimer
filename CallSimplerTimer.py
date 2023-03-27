@@ -28,3 +28,13 @@ def any_function(a: int = 1,
 if __name__ == '__main__':
     # call and run the function
     any_function()
+
+'''
+Expected Output:
+Anything you would like to say
+Start time: 2023-03-27 14:06:17.884332
+I am a function
+abaaba = 3
+End time: 2023-03-27 14:06:22.891991
+Time used: 0:00:05.007659
+'''
